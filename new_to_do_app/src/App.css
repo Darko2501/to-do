@@ -1,0 +1,65 @@
+.taskDiv{
+
+  justify-content: right;
+  background-color: black;
+  width: 100%;
+
+}
+h2{
+  text-align: center;
+  color: white;
+}
+button{
+  color: white;
+  background-color: blue;
+  width: 150px;
+  height: 40px;
+}
+h4{
+  text-align: center;
+  color: white;
+}
+.singleTask{
+  border: black solid 1px;
+  color: black;
+  background-color: white;
+}
+body{
+  background-color: black;
+}
+.createForm {
+  color:black;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+
+
+}
+h5{
+  text-align: center;
+  color: white;
+}
+.userName{
+  text-align: center;
+  color: white;
+}
+
+
+.loginForm{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+input{
+  height: 40px;
+  width: 200px;
+}
+button:hover{
+  background-color: deepskyblue;
+}
+select{
+  height: 40px;
+  width: 200px;
+}
+
